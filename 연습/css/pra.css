@@ -1,0 +1,137 @@
+li{
+float:left;
+width:33.3333%;
+padding-top:20px; 
+padding-bottom:20px; 
+text-align: center;
+background-color: #000;
+list-style: none;
+
+}
+	
+li a{
+color:#fff;
+text-decoration: none;
+}
+
+.MainLogo{
+padding:30px;
+
+}
+
+.EventBox{
+padding-top: 200px;
+background-image: url('images/MapleM.jpg');
+background-repeat: no-repeat;
+background-size: cover;
+height:400px;
+}
+
+
+.firstText{
+text-align: center;
+font-size:3em;
+color:#efefef;
+text-shadow:3px 3px #000;
+}
+
+.TwoText{
+text-align: center;
+font-size:2.5em;
+color:#efefef;
+text-shadow:3px 3px #000;
+}
+
+.RankTitle,.BabyTitle,.CodyTitle{
+padding-top: 120px;
+text-align: center;
+font-size: 1.5em;
+}
+
+.Content{
+margin-top: 150px;
+text-align: center;
+
+}
+
+
+.Content p{
+float: middle;
+font-size:1.3em;
+}
+
+.Content p span{
+color:#f00;
+font-weight: bold;
+}
+
+.Content img{
+width:30%;
+float:middle;
+}
+
+.ContentBox,.ContentBox2,.ContentBox3,.ContentBox4,.ContentBox5,.ContentBox6{
+float:left;
+width:20%;
+height:300px;
+margin-top: 200px;
+margin: 0 auto;
+}
+
+
+
+.Content img{
+background-repeat: no-repeat;
+width:114px;
+height:130px;
+
+}
+
+.ContentBox4 img,.ContentBox5 img{
+background-repeat: no-repeat;
+margin-top: 10px;
+width:100px;
+height:120px;
+
+}
+
+.ContentBox6 img{
+background-repeat: no-repeat;
+width:80px;
+height:120px;
+
+}
+
+.page{
+text-align: center;
+font-weight:bold;
+font-size: 2em;
+
+float:middle;
+}
+
+.page a{
+color: #000;
+text-decoration: none;
+list-style: none;
+margin-right:30px;
+padding-bottom: 50px;
+}
+
+.LBox{
+background-color: #efefef;
+float: left;
+display: inline-block;
+width:20%;
+height: 100px;
+margin-left:500px;
+}
+
+.RBox{
+background-color: #f0f;
+float: right;
+display: inline-block;
+width:47%;
+height:100px;
+margin-right:500px;
+}
